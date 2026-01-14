@@ -4,9 +4,10 @@ use std::{io::stdin, num::Wrapping};
 // Puzzles from "Rust Brain Teasers" by Herbert Wolverson
 
 mod p05;
+mod p06;
 
 fn main() {
-  p05::puzzle5();
+  p06::puzzle6();
 }
 
 fn puzzle1() {
