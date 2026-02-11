@@ -15,7 +15,15 @@ version = "0.0.0-SNAPSHOT"
 # no dependencies
 
 [workspace]
-members = ["puzzle07"]
+members = [
+  "puzzle01",
+  "puzzle02",
+  # TODO: puzzle03
+  "puzzle04",
+  "puzzle05",
+  "puzzle06",
+  "puzzle07",
+]
 
 [workspace.dependencies]
 # no workspace dependencies

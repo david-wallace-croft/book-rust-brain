@@ -11,8 +11,9 @@
 
 ## Usage
 
-- cargo run -p puzzle07
-
+- cargo run -p puzzle01
+- Puzzles currently implemented: #1 through #7 except #3
+ 
 ## History
 
 - 2026-02-10: Initial release

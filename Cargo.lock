@@ -7,5 +7,25 @@ name = "book-rust-brain"
 version = "0.0.0-SNAPSHOT"
 
 [[package]]
+name = "puzzle01"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
+name = "puzzle02"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
+name = "puzzle04"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
+name = "puzzle05"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
+name = "puzzle06"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
 name = "puzzle07"
 version = "0.0.0-SNAPSHOT"

@@ -19,6 +19,8 @@ impl From<Degrees> for Radians {
 fn main() {
   let one_eighty_degrees: Degrees = Degrees::new(180.0);
 
+  // let one_eighty_radians_0 = Radians::from(one_eighty_degrees);
+
   let one_eighty_radians: Radians = one_eighty_degrees.into();
 
   println!("180 Degrees in Radians = {}", one_eighty_radians.0);
