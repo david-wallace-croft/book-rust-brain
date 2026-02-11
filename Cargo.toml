@@ -1,6 +1,21 @@
 [package]
-name = "book-rust-brain"
-version = "0.1.0"
+authors = ["David Wallace Croft <david@CroftSoft.com>"]
+description = "Code adapted from the book 'Rust Brain Teasers' by Wolverson"
 edition = "2024"
+homepage = "https://www.CroftSoft.com/"
+license = "MIT"
+name = "book-rust-brain"
+publish = false
+readme = "README.md"
+repository = "https://github.com/david-wallace-croft/book-advanced"
+rust-version = "1.93"
+version = "0.0.0-SNAPSHOT"
 
 [dependencies]
+# no dependencies
+
+[workspace]
+members = ["puzzle07"]
+
+[workspace.dependencies]
+# no workspace dependencies
