@@ -18,7 +18,7 @@ version = "0.0.0-SNAPSHOT"
 members = [
   "puzzle01",
   "puzzle02",
-  # TODO: puzzle03
+  "puzzle03",
   "puzzle04",
   "puzzle05",
   "puzzle06",

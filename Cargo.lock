@@ -15,6 +15,10 @@ name = "puzzle02"
 version = "0.0.0-SNAPSHOT"
 
 [[package]]
+name = "puzzle03"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
 name = "puzzle04"
 version = "0.0.0-SNAPSHOT"
 
