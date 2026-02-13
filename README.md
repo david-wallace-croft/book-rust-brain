@@ -12,7 +12,9 @@
 ## Usage
 
 - cargo run -p puzzle01
-- Puzzles currently implemented: #1 through #7
+- cargo run -p puzzle02
+- \[...\]
+- cargo run -p puzzle08
  
 ## History
 
