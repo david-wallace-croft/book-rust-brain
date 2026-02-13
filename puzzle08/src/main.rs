@@ -8,7 +8,8 @@ fn double_it(
 }
 
 fn main() {
-  // Note that this is a signed integer
+  // Note that this is a signed integer.
+  // Try changing one from 1 to -1 to see what happens.
   let one: i32 = 1;
 
   let n: u64 = double_it(one as _, 3);
