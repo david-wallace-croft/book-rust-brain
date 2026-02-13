@@ -12,11 +12,11 @@ fn main() {
   // Try changing one from 1 to -1 to see what happens.
   let one: i32 = 1;
 
-  let n: u64 = double_it(one as _, 3);
+  let n = double_it(one as _, 3);
 
   println!("{}", n);
 
-  // let n: u64 = double_it(one.into(), 3);
+  // let n = double_it(one.into(), 3);
 
   // println!("{}", n);
 
