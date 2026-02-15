@@ -5,7 +5,8 @@
 
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/david-wallace-croft/book-rust-brain/blob/main/LICENSE.txt
-[status-badge]: https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.yml/badge.svg
+[status-badge]:
+https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.yml/badge.svg
 [status-url]: https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.yml
 
 
@@ -18,7 +19,6 @@
 - cargo run -p puzzle01
 - cargo run -p puzzle02
 - \[...\]
-- cargo run -p puzzle08
  
 ## History
 
