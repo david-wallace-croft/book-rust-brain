@@ -12,6 +12,8 @@ https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.ym
 - Code adapted from the book "Rust Brain Teasers" by Herbert Wolverson
   - [https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/](
      https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)
+  - [https://devtalk.com/books/rust-brain-teasers/errata](
+     https://devtalk.com/books/rust-brain-teasers/errata)
 
 ## Usage
 
