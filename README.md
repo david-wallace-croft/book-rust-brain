@@ -9,7 +9,6 @@
 https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.yml/badge.svg
 [status-url]: https://github.com/david-wallace-croft/book-rust-brain/actions/workflows/rust.yml
 
-
 - Code adapted from the book "Rust Brain Teasers" by Herbert Wolverson
   - [https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/](
      https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)
