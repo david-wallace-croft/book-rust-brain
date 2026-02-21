@@ -1,0 +1,14 @@
+[package]
+authors = ["David Wallace Croft <david@CroftSoft.com>"]
+description = "Code adapted from the book 'Rust Brain Teasers' by Wolverson"
+edition = "2024"
+homepage = "https://www.CroftSoft.com/"
+license = "MIT"
+name = "puzzle14"
+publish = false
+repository = "https://github.com/david-wallace-croft/book-rust-brain"
+rust-version = "1.93"
+version = "0.0.0-SNAPSHOT"
+
+[dependencies]
+# no dependencies
