@@ -4,6 +4,8 @@ fn double_it(
   n: u64,
   _: i32,
 ) -> u64 {
+  println!("n is {n}");
+
   n * 2
 }
 
@@ -12,19 +14,21 @@ fn main() {
   // Try changing one from 1 to -1 to see what happens.
   let one: i32 = 1;
 
+  println!("one is {one}");
+
   let n = double_it(one as _, 3);
 
-  println!("{}", n);
+  println!("double n is {n}");
 
   // let n = double_it(one.into(), 3);
 
-  // println!("{}", n);
+  // println!("double n is {n}");
 
-  let one_converted_result = one.try_into();
+  // let one_converted_result = one.try_into();
 
-  if let Ok(one_converted) = one_converted_result {
-    let n: u64 = double_it(one_converted, 3);
+  // if let Ok(one_converted) = one_converted_result {
+  //   let n: u64 = double_it(one_converted, 3);
 
-    println!("{}", n);
-  }
+  //   println!("double n is {n}");
+  // }
 }
