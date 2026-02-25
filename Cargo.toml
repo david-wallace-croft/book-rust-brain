@@ -32,6 +32,7 @@ members = [
   "puzzle14",
   "puzzle15",
   "puzzle16",
+  "puzzle17",
 ]
 
 [workspace.dependencies]
