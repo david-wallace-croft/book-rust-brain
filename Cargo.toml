@@ -34,7 +34,8 @@ members = [
   "puzzle16",
   "puzzle17",
   "puzzle18",
+  "puzzle19",
 ]
 
 [workspace.dependencies]
-# no workspace dependencies
+tokio = "1.49.0"
