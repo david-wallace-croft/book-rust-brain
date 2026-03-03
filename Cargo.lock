@@ -178,6 +178,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "puzzle20"
+version = "0.0.0-SNAPSHOT"
+dependencies = [
+ "tokio",
+]
+
+[[package]]
 name = "quote"
 version = "1.0.44"
 source = "registry+https://github.com/rust-lang/crates.io-index"
