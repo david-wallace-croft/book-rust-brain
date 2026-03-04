@@ -36,7 +36,8 @@ members = [
   "puzzle18",
   "puzzle19",
   "puzzle20",
+  "puzzle21",
 ]
 
 [workspace.dependencies]
-tokio = "1.49.0"
+tokio = "1.50.0"
