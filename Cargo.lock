@@ -180,12 +180,13 @@ dependencies = [
 [[package]]
 name = "puzzle20"
 version = "0.0.0-SNAPSHOT"
-dependencies = [
- "tokio",
-]
 
 [[package]]
 name = "puzzle21"
+version = "0.0.0-SNAPSHOT"
+
+[[package]]
+name = "puzzle22"
 version = "0.0.0-SNAPSHOT"
 dependencies = [
  "tokio",
