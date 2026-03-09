@@ -195,16 +195,10 @@ dependencies = [
 [[package]]
 name = "puzzle23"
 version = "0.0.0-SNAPSHOT"
-dependencies = [
- "tokio",
-]
 
 [[package]]
 name = "puzzle24"
 version = "0.0.0-SNAPSHOT"
-dependencies = [
- "tokio",
-]
 
 [[package]]
 name = "quote"
