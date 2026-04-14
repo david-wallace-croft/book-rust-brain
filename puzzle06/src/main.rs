@@ -5,7 +5,7 @@ fn main() {
     println!("Please reboot the universe.");
   }
 
-  if (0.1_f64 + 0.2_f64 - 0.3_f64).abs() < std::f64::EPSILON {
+  if (0.1_f64 + 0.2_f64 - 0.3_f64).abs() < f64::EPSILON {
     println!("Arithmetic works");
   }
 }

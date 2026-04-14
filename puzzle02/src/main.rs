@@ -5,6 +5,7 @@ fn main() {
 
   let mut input: String = String::new();
 
+  #[expect(clippy::read_line_without_trim)]
   stdin()
     .read_line(&mut input)
     .expect("Unable to read standard input");
