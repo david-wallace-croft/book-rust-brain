@@ -5,5 +5,6 @@ fn main() {
     println!("It does not match.");
   }
 
+  // The Greek capital letter Chi as a Unicode escape
   println!("\u{03A7}");
 }
