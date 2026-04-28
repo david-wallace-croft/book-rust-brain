@@ -11,6 +11,7 @@ fn main() {
   // The Greek capital letter Chi as a Unicode escape
   println!("\u{03A7}");
 
+  #[expect(clippy::eq_op)]
   if 'X' == '\u{58}' {
     println!("It matches!");
   } else {
