@@ -1,3 +1,6 @@
+// #[repr(
+//   C, packed
+// )]
 struct VeryImportantMessage {
   _message_type: u8,
   _destination: u16,
