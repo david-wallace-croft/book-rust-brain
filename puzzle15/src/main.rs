@@ -11,7 +11,7 @@ struct Node {
 }
 
 fn main() {
-  let mut head = Some(Rc::new(RefCell::new(Node {
+  let mut head: Link = Some(Rc::new(RefCell::new(Node {
     elem: 1,
     next: None,
   })));
