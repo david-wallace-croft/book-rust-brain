@@ -5,7 +5,7 @@ type Link = Option<Rc<RefCell<Node>>>;
 
 #[derive(Debug)]
 struct Node {
-  #[allow(dead_code)]
+  #[expect(dead_code)]
   elem: i32,
   next: Link,
 }
